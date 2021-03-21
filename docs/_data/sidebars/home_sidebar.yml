@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: Algorithms
+      url: algos.html
     output: web
     title: cute_deltas
   output: web

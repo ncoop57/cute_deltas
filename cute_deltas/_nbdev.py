@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"levenshtein_distance": "00_algos.ipynb"}
 
-modules = []
+modules = ["algos.py"]
 
 doc_url = "https://ncoop57.github.io/cute_deltas/"
 
