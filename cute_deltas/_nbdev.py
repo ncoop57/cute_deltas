@@ -3,7 +3,8 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"levenshtein_distance": "00_algos.ipynb",
-         "n_gram_overlap": "00_algos.ipynb"}
+         "n_gram_overlap": "00_algos.ipynb",
+         "longest_common_substring": "00_algos.ipynb"}
 
 modules = ["algos.py"]
 
